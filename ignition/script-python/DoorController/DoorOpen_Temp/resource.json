@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "Astro",
+      "timestamp": "2021-09-24T12:19:11Z"
+    },
+    "lastModificationSignature": "bc9767072a39f781e0c99157ed48e312dc4d7c1b3fa0d704c625c7527fb32d36"
+  }
+}

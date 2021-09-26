@@ -1,0 +1,18 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "Astro",
+      "timestamp": "2021-09-24T12:19:10Z"
+    },
+    "xml-format-version": 1,
+    "lastModificationSignature": "5d832e0ab2930d692bb37b856a68d6fffe05b071b9ee4c59f8269e2f1246edc6"
+  }
+}

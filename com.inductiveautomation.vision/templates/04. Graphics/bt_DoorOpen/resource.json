@@ -1,0 +1,18 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "template.bin",
+    "droptarget.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "Astro",
+      "timestamp": "2021-09-25T20:01:59Z"
+    },
+    "lastModificationSignature": "befd691933e8cf906209c9d6cfdfa11d94c5febec9b65de8f04242419547445c"
+  }
+}

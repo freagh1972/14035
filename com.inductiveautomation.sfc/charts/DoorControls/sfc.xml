@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<sfc zoom="1.0" canvas="20 20" execution-mode="Callable" hot-editable="false" persist-state="true" redundant-sync="false">
+	<step id="98c26678-331a-4548-b05d-e083ea47d814" location="5 1" name="__begin" factory-id="begin-step">	</step>
+	<step id="96ad2675-72dd-412b-9910-a36315cdcb5b" location="5 3" name="S1" factory-id="action-step">
+		<start-script>def onStart(chart, step):
+	"""
+	This will run when the step starts, before any
+	other action.
+
+	Arguments:
+		chart: A reference to the chart's scope.
+		step: A reference to this step's scope.
+	"""
+	system.tag</start-script>
+		<stop-script>def onStop(chart, step):
+	"""
+	This will run when the step is finished and
+	all other actions complete.
+
+	Arguments:
+		chart: A reference to the chart's scope.
+		step: A reference to this step's scope.
+	"""
+</stop-script>
+	<timer-script interval="1000">def onTimer(chart, step):
+	"""
+	This will run at a fixed interval while the
+	step is active.
+
+	Arguments:
+		chart: A reference to the chart's scope.
+		step: A reference to this step's scope.
+	"""
+</timer-script>
+	<timer-script interval="1000">def onTimer(chart, step):
+	"""
+	This will run at a fixed interval while the
+	step is active.
+
+	Arguments:
+		chart: A reference to the chart's scope.
+		step: A reference to this step's scope.
+	"""
+</timer-script>
+	</step>
+	<link id="5781813b-96ee-493e-92fa-8c4966376da3" location="5 2"><up/><left/><down/></link>
+
+</sfc>

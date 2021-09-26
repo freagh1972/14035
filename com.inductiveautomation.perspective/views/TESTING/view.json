@@ -1,0 +1,29 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "VideoPlayer"
+        },
+        "position": {
+          "height": 297,
+          "width": 357,
+          "x": 272,
+          "y": 81
+        },
+        "props": {
+          "liveFeed": true,
+          "source": "rtsp://10.2.9.141/ch1/stream3"
+        },
+        "type": "ia.display.video-player"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}
