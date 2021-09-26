@@ -1,0 +1,34 @@
+{
+  "name": "debug ",
+  "typeId": "System Design",
+  "tagType": "UdtInstance",
+  "tags": [
+    {
+      "name": "CCTV",
+      "tagType": "AtomicTag"
+    },
+    {
+      "name": "Monitor_Door",
+      "tagType": "AtomicTag"
+    },
+    {
+      "value": true,
+      "name": "Door_Control",
+      "tagType": "AtomicTag"
+    },
+    {
+      "value": true,
+      "name": "Duress",
+      "tagType": "AtomicTag"
+    },
+    {
+      "name": "Door_Control _DPS",
+      "tagType": "AtomicTag"
+    },
+    {
+      "value": true,
+      "name": "Intercom",
+      "tagType": "AtomicTag"
+    }
+  ]
+}
